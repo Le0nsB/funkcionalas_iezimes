@@ -1,17 +1,18 @@
 import TranslationTable from "./TranslationTable";
 
 const translations = [
-  { en: "Feature", lv: "Funkcionalitāte (Fīča)" },
-  { en: "Background", lv: "Konteksts / Situācija" },
-  { en: "Rule", lv: "Noteikums" },
-  { en: "Scenario", lv: "Scenārijs (Piemērs)" },
+  { en: "Feature", lv: "Funkcija, Funkcionālā iezīme" },
+  { en: "Background", lv: "Konteksts" },
+  { en: "Rule", lv: "Noteikums, Nosacījums" },
+  { en: "Scenario", lv: "Scenārijs" },
   { en: "Scenario Outline", lv: "Scenārijs pēc parauga" },
-  { en: "Examples", lv: "Piemēri / Paraugs" },
-  { en: "Given", lv: "*Kad" },
-  { en: "When", lv: "*Ja" },
-  { en: "Then", lv: "*Tad" },
-  { en: "And", lv: "*Un" },
-  { en: "But", lv: "*Bet" }
+  { en: "Examples", lv: "Piemēri" },
+  { en: "Given", lv: "Kad" },
+  { en: "When", lv: "Ja" },
+  { en: "Then", lv: "Tad" },
+  { en: "And", lv: "Un" },
+  { en: "But", lv: "Bet" },
+  { en: "Or", lv: "Vai" }
 ];
 
 
