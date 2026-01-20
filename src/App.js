@@ -5,6 +5,7 @@ import UserStory from "./components/UserStory";
 import Scenarios from "./components/Scenarios";
 import RubiksCube from "./components/RubiksCube";
 import HappyPath from "./components/HappyPath";
+import ProfilePic from "./components/ProfilePic";
 
 function App() {
   return (
@@ -38,6 +39,9 @@ function App() {
           </div>
           <div className="card">
             <HappyPath />
+          </div>
+          <div className="card">
+            <ProfilePic />
           </div>
         </section>
       </main>

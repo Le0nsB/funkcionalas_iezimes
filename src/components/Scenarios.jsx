@@ -7,7 +7,7 @@ function Scenarios() {
         uzvedas atšķirīgi dažādos apstākļos.
       </p>
       <p>
-        Scenāriji tiek rakstīti struktūrā: Given, When, Then.
+        Scenāriji tiek rakstīti struktūrā: Given(Kad), When(Ja), Then(Tad).
       </p>
     </>
   );
