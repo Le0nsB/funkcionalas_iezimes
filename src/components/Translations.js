@@ -12,7 +12,8 @@ const translations = [
   { en: "Then", lv: "Tad" },
   { en: "And", lv: "Un" },
   { en: "But", lv: "Bet" },
-  { en: "Or", lv: "Vai" }
+  { en: "Or", lv: "Vai" },
+  { en: "User Story", lv: "Lietotājstāsts" }
 ];
 
 
